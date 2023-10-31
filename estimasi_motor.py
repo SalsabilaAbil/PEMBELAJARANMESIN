@@ -9,9 +9,9 @@ Year = st.number_input('Input Tahun Motor')
 Unit_Cost = st.number_input('Input Biaya Unit')
 Order_Quantity = st.number_input('Input Jumlah Pesanan')
 Day = st.number_input('Input Day')
-Customer_Age = st.input('Input Usia')
-Unit_Price = st.input('Input Harga Satuan')
-Cost = st.input('Input Biaya')
+Customer_Age = st.number_input('Input Usia')
+Unit_Price = st.number_input('Input Harga Satuan')
+Cost = st.number_input('Input Biaya')
 
 
 prediksi = ''
