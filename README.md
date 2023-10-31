@@ -149,4 +149,4 @@ hasilnya : Estimasi Keuntungan Penjualan Motor :  [228.71219074]
 
   [App](https://pembelajaranmesin-ccrhqvzeekzehrv87f9arv.streamlit.app/)
 
-  ![Alt text](APP.png)
+  ![Alt text](gambarh.png)
