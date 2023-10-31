@@ -147,6 +147,6 @@ print('Estimasi Keuntungan Penjualan Motor : ', prediksi)
 
 ## Deployment
 
-  [App](https://pembelajaranmesin-ccrhqvzeekzehrv87f9arv.streamlit.app/)
+  [App](https://pembelajaranmesin-tqttuxspoajwwuz3cr6ehv.streamlit.app/)
 
   ![Alt text](gambarh.png)
