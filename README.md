@@ -135,15 +135,15 @@ untuk mengevaluasi data
 nilai = lr.score(X_test, y_test)
 print('Akurasi Model Regresi Linier : ', nilai)
 ```
-hasilnya : Akurasi Model Regresi Linier :  0.5666774339163018
+Akurasi Model Regresi Linier :  1.0
+Akurasi model regresi linier yang bernilai 1.0 menunjukkan bahwa model ini sempurna cocok dengan data pengujian.
 
 membuat inputan regresi linier
 ```bash
-inputan = np.array([[2014, 45, 22]])
+inputan = np.array([[2014, 45, 22, 31, 87, 70, 108, 63]])
 prediksi = lr.predict(inputan)
 print('Estimasi Keuntungan Penjualan Motor : ', prediksi)
 ```
-hasilnya : Estimasi Keuntungan Penjualan Motor :  [228.71219074]
 
 ## Deployment
 
