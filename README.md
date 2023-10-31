@@ -107,12 +107,12 @@ hasil : (array([0, 1, 2, 3, 4, 5]),
   ## Modeling
   langkah ini diawali dengan seleksi fitur
 ```bash
-fitur = ['Year', 'Unit_Cost', 'Order_Quantity']
+fitur = ['Year', 'Unit_Cost', 'Order_Quantity','Day','Customer_Age','Unit_Price','Cost','Revenue']
 x = df[fitur]
 y = df['Profit']
 x.shape, y.shape
 ```
-hasilnya : ((113036, 3), (113036,))
+((113036, 8), (113036,))
 
 lanjut langkah ini men split data testing dan data training
 ```bash
