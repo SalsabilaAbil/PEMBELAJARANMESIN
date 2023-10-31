@@ -129,7 +129,7 @@ lr = LinearRegression()
 lr.fit(x_train,y_train)
 predik = lr.predict(X_test)
 ```
-
+## Evaluasi
 untuk mengevaluasi data 
 ```bash
 nilai = lr.score(X_test, y_test)
